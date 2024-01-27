@@ -1,0 +1,11 @@
+E:\_PATH\7-Zip
+E:\_PATH\Composer
+E:\_PATH\Git\bin
+E:\_PATH\jdk11\bin
+E:\_PATH\MinGW\bin
+E:\_PATH\mongo\bin
+E:\_PATH\nodejs
+E:\_PATH\php
+E:\_PATH\Python\Python310
+E:\_PATH\Python\Python310\Scripts
+E:\_PATH\R\R-4.3.1\bin
